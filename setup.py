@@ -23,7 +23,7 @@ setup(
     author='Daniel Seiler',
     author_email='daniel.seiler@fachschaft.informatik.tu-darmstadt.de',
     install_requires=[
-        'django<4',
+        'django<5',
         'gitpython',
     ],
     classifiers=[
